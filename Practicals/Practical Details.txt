@@ -1,1 +1,2 @@
 This File contains details of practicals
+Practical 1: Take a demonstration on taking input
